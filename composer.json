@@ -1,0 +1,17 @@
+{
+    "name": "ddliu/wildcards",
+    "description": "Simple wildcards",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dong",
+            "email": "ddliuhb@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ddliu\\wildcards\\": "src/"
+        }
+    }    
+}

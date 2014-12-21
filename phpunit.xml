@@ -1,0 +1,7 @@
+<phpunit>
+  <testsuites>
+    <testsuite name="ddliu.wildcards">
+      <file>test.php</file>
+    </testsuite>
+  </testsuites>
+</phpunit>
